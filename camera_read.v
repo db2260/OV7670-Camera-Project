@@ -46,4 +46,3 @@ module camera_read(
 	end
 	
 endmodule
-© 2021 GitHub, Inc.
